@@ -98,7 +98,7 @@ function App(): JSX.Element {
 
       <main>
         <div className="cards__wrapper">
-          {/* JSX code can go here */}
+          {<CatCard />}
         </div>
       </main>
 
