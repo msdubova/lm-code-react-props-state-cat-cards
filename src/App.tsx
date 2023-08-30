@@ -4,6 +4,16 @@ import Header from "./components/header";
 import Footer from "./components/footer";
 import { useState } from "react";
 import Cat from "./data/cat";
+import CatCard from "./components/cat_card";
+
+/* <details>
+<summary>Click here to see the answer</summary>
+<pre>
+
+`import CatCard from './components/cat_card'`
+
+</pre>
+</details> */
 
 function App(): JSX.Element {
   // JavaScript/TypeScript code can be inserted here!
