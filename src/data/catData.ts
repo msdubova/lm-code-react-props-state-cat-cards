@@ -82,5 +82,5 @@ const catData: Array<Cat> = [
   },
 ];
 catData.forEach((cat) => (cat.id = uuidv4()));
-console.log(catData); // теперь у каждой кошки должен быть уникальный идентификатор
+
 export default catData;
