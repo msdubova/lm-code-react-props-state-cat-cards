@@ -62,7 +62,9 @@ body {
 	transition: 0.3s;
 	margin: 0.5em;
 }
-
+.card--dog {
+	background-color: #ee964b;
+}
 .card:hover {
 	box-shadow: 0 4px 8px 0 rgb(13, 59, 102, 0.9);
 }
